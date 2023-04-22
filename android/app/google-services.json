@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441448234304",
+    "project_id": "learn-firebase-dd4fe",
+    "storage_bucket": "learn-firebase-dd4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441448234304:android:362144fffec048fc344ea5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441448234304-r5qskn1pqvo3re6mipgmtlu8ssu7201k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU271SQl2e9Bhy3FWfVXLyVQiOBKaRD8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441448234304-r5qskn1pqvo3re6mipgmtlu8ssu7201k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
